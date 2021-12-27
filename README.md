@@ -2,7 +2,7 @@
 
 ## Funcionament:
 Per tal d'afegir Continuous integration a un repositori de Pythonb de GitHub cal tenir un fitxer amb el nom `python-app.yml`
-dins del directori `./.github/workflows/`
+dins del directori `./.github/workflows/`.
 
 El fitxer `python-app.yml` pot contenir la informació següent:
 
@@ -48,3 +48,9 @@ Bàsicament, el que fa el fitxer és:
 - revisar si hi ha errors de compilació al codi i aturar l'execució en cas d'haver-n'hi.
 - executar els tests definits al fitxer `test.py`.
 - instal·lar i executar el coverage per revisar la cobertura dels tests.
+
+
+## Vídeo
+El vídeo demostrant el funcionament del repositori es pot trobar seguint el següent [enllaç](https://pages.github.com/).
+
+
