@@ -51,6 +51,6 @@ Bàsicament, el que fa el fitxer és:
 
 
 ## Vídeo
-El vídeo demostrant el funcionament del repositori es pot trobar seguint el següent [enllaço](https://pages.github.com/).
+El vídeo demostrant el funcionament del repositori es pot trobar seguint el següent [enllaç](https://drive.google.com/file/d/1z9n8ggQw0QWnmuYRL_b9x179KT0o6LdY/view?usp=drivesdk).
 
 
