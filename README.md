@@ -43,4 +43,8 @@ jobs:
           
  ```
 Bàsicament, el que fa el fitxer és:
-- prova
+- configurar l'entorn per tal d'executar-se a la versió python 3.9.
+- instal·lar tots els requisits definits al fitxer `requirements.txt`.
+- revisar si hi ha errors de compilació al codi i aturar l'execució en cas d'haver-n'hi.
+- executar els tests definits al fitxer `test.py`.
+- instal·lar i executar el coverage per revisar la cobertura dels tests.
