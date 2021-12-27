@@ -41,6 +41,6 @@ jobs:
           coverage run test.py
           coverage report
           
-          ```
+ ```
 Bàsicament, el que fa el fitxer és:
     - 
